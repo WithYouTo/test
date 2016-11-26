@@ -1,0 +1,6 @@
+<update id="updateJudge">
+UPDATE ZHZHTS 
+SET ysjy = 'Тњвт'
+WHERE 
+<![CDATA[enddate <= DATEADD(day,-15,NOW())]]>
+</update>
