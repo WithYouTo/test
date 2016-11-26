@@ -1,3 +1,3 @@
-public void main(String[] args){
-  sysout("hello,world!");
+public static void main(String[] args){
+  System.out.println("hello,world!");
 }
